@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/test_lib/__init__.py
+src/test_lib/my_class.py
+src/test_lib/my_class2.py
+src/test_lib.egg-info/PKG-INFO
+src/test_lib.egg-info/SOURCES.txt
+src/test_lib.egg-info/dependency_links.txt
+src/test_lib.egg-info/top_level.txt
